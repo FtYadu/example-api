@@ -3,7 +3,7 @@ info:
   title: Example API
   description: API for user management, file management, and authentication.
   version: 1.0.0
-servers:
+servers: local
   - url: https://github.com/FtYadu
     description: Main (production) server
 paths:
