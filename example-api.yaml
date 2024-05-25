@@ -4,7 +4,7 @@ info:
   description: API for user management, file management, and authentication.
   version: 1.0.0
 servers:
-  - url: http://api.example.com/v1
+  - url: https://chatgpt.com/g/g-JhPCKYbLX-anjali
     description: Main (production) server
 paths:
   /users:
